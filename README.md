@@ -1,5 +1,8 @@
-# CCNA Introduction to Networks (ITN) – Packet Tracer Labs
-### Author: YOUR NAME
+# CCNA Introduction to Networks (ITN) – Packet Tracer Assignments Labs
+### Author: KUMAIL AHMED
+connect with me 
+kumailahmedofficial@gmail.com
++923000915930
 
 This repository contains my completed labs from the **Cisco CCNA: Introduction to Networks (ITN)** course.  
 All **17 modules** are included and demonstrate hands-on networking skills using Cisco Packet Tracer.
